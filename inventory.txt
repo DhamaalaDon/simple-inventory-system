@@ -1,0 +1,4 @@
+
+garcia, 200.0, 2
+alex ablon , 58000.0, 55
+orange, 200.0, 2
